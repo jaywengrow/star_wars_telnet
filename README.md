@@ -1,26 +1,24 @@
 # StarWarsTelnet
 
-TODO: Write a gem description
+Watch Star Wars from your Mac terminal with a simple command! (This only works on a Mac currently.) Courtesy of http://www.blinkenlights.nl/services.html
 
 ## Installation
 
-Add this line to your application's Gemfile:
-
-```ruby
-gem 'star_wars_telnet'
-```
-
-And then execute:
-
-    $ bundle
-
-Or install it yourself as:
+Install the gem from your terminal with:
 
     $ gem install star_wars_telnet
 
+If you use Rbenv to manage your Ruby versions, you may have to run:
+
+    $ rbenv rehash
+
 ## Usage
 
-TODO: Write usage instructions here
+Run the command
+
+    star_wars
+
+and sit back and enjoy!
 
 ## Contributing
 
