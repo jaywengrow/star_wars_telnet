@@ -14,9 +14,9 @@ If you use Rbenv to manage your Ruby versions, you may have to run:
 
 ## Usage
 
-Run the command
+In the terminal, run the command
 
-    star_wars
+    $ star_wars
 
 and sit back and enjoy!
 
